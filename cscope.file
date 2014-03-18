@@ -1,0 +1,12 @@
+clibrary.c
+expression.c
+heap.c
+include.c
+lex.c
+parse.c
+picoc.c
+platform.c
+table.c
+tmp.c
+type.c
+variable.c
